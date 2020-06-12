@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 master content
-=======
 dev1
->>>>>>> d94e3fb... dev1
